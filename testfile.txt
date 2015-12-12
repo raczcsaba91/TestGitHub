@@ -1,3 +1,1 @@
-This is a test text file for GitHub
-
-anyád
+﻿ÜRES EZ A SZAR ÉS CSUPA NAGYBETŰ amit nem a szaros konzolból szerkesztettem :@
